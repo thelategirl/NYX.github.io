@@ -1,2 +1,3 @@
 # NYX.github.io
-Ceci est mon portfolio
+
+Un site web simple pour me présenter rapidement.
